@@ -1,0 +1,12 @@
+{
+    "name": "testing",
+    "description": "It is for testing purpose",
+    "price": 100,
+    "Stock": 10,
+    "category": "Personal",
+    "images":[{
+        "public_id" : "testing.com",
+        "url": "testing.com"
+    }]
+
+}s
